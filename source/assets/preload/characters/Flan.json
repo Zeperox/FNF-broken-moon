@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Flan idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				120
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Flan up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Flan left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Flan Right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Flan down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Flandere",
+	"position": [
+		0,
+		130
+	],
+	"healthicon": "scarlet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		190
+	],
+	"camera_position": [
+		20,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-230
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MS Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-320,
+				-224
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Mai Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-319,
+				-228
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Mai Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-323,
+				-229
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Mai Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-311,
+				-231
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Mai Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-315,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Satono Right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-311,
+				-231
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Satono Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-319,
+				-229
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Satono Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-315,
+				-229
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Satono Down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MaiSatono",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "MS",
+	"flip_x": false,
+	"healthbar_colors": [
+		196,
+		94,
+		174
+	],
+	"camera_position": [
+		30,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

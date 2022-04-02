@@ -1,0 +1,48 @@
+{
+	"storyName": "Gensokyo Party",
+	"hideFreeplay": false,
+	"weekBackground": "shrine",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"scarlet-syndrome",
+			"scarlet",
+			[
+				226,
+				73,
+				133
+			]
+		],
+		[
+			"hedonism",
+			"sukiaaa",
+			[
+				255,
+				153,
+				53
+			]
+		],
+		[
+			"frightfully-insane",
+			"scarlet",
+			[
+				255,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Shrine",
+		"bf",
+		"suika"
+	],
+	"weekName": "GensokyoParty"
+}

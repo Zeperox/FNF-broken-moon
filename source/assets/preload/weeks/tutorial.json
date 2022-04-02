@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Tutorial", "sukiaaa", [165, 0, 77]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"suika"
+	],
+	"weekBackground": "Nitori",
+
+	"storyName": "The Beginning",
+	"weekBefore": "tutorial",
+	"weekName": "Tutorial",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

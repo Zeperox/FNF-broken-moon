@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Remilia idle"
+		},
+		{
+			"offsets": [
+				-32,
+				54
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Remilia up note"
+		},
+		{
+			"offsets": [
+				-30,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Remilia left note"
+		},
+		{
+			"offsets": [
+				-48,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Remilia Right note"
+		},
+		{
+			"offsets": [
+				-50,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Remilia down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Remilia",
+	"position": [
+		50,
+		100
+	],
+	"healthicon": "scarlet",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		175,
+		190
+	],
+	"camera_position": [
+		40,
+		28
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				114,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Okina Up"
+		},
+		{
+			"offsets": [
+				114,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Okina Left"
+		},
+		{
+			"offsets": [
+				255,
+				193
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Okina Right"
+		},
+		{
+			"offsets": [
+				114,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Okina Down"
+		},
+		{
+			"offsets": [
+				123,
+				49
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "idle",
+			"loop": true,
+			"name": "Okina Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Okina",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "okina",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		140,
+		235
+	],
+	"camera_position": [
+		100,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

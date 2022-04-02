@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgGhouls.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG freaks glitch instance 10000" x="0" y="0" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10001" x="2107" y="0" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10002" x="4214" y="0" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10003" x="0" y="1092" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10004" x="2107" y="1092" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10005" x="4214" y="1092" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10006" x="0" y="2184" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10007" x="2107" y="2184" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10008" x="4214" y="2184" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+	<SubTexture name="BG freaks glitch instance 10009" x="0" y="3276" width="2107" height="1092" frameX="270" frameY="150" frameWidth="0" frameHeight="0"/>
+</TextureAtlas>

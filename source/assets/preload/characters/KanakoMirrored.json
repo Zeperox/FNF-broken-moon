@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Kanako down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-220,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Kanako up0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-239,
+				-94
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kanako idle0"
+		},
+		{
+			"offsets": [
+				-220,
+				-90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Kanako right0"
+		},
+		{
+			"offsets": [
+				-230,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Kanako left0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Kanako",
+	"position": [
+		-200,
+		100
+	],
+	"healthicon": "Kanako",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		60,
+		230
+	],
+	"camera_position": [
+		530,
+		220
+	],
+	"sing_duration": 4,
+	"scale": 1.05
+}

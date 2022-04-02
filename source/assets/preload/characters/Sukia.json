@@ -1,0 +1,226 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-458,
+				-190
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Parent Christmas Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-447,
+				-149
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Parent Up Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-477,
+				-310
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Parent Down Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-457,
+				-127
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Parent Left Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-566,
+				-226
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Parent Right Note Dad",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-499,
+				-216
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Parent Right Note Mom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-494,
+				-327
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Parent Down Note Mom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-430,
+				-188
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Parent Left Note Mom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-456,
+				-155
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Parent Up Note Mom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-458,
+				-190
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Parent Christmas Idle"
+		},
+		{
+			"offsets": [
+				-447,
+				-151
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [],
+			"name": "Parent Up Note Dad"
+		},
+		{
+			"offsets": [
+				-458,
+				-128
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [],
+			"name": "Parent Left Note Dad"
+		},
+		{
+			"offsets": [
+				-501,
+				-217
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-alt-loop",
+			"indices": [],
+			"name": "Parent Right Note Mom"
+		},
+		{
+			"offsets": [
+				-456,
+				-155
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-alt-loop",
+			"indices": [],
+			"name": "Parent Up Note Mom"
+		},
+		{
+			"offsets": [
+				-485,
+				-317
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-alt-loop",
+			"indices": [],
+			"name": "Parent Down Note Mom"
+		},
+		{
+			"offsets": [
+				-566,
+				-226
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "Parent Right Note Dad"
+		},
+		{
+			"offsets": [
+				-429,
+				-186
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-alt-loop",
+			"indices": [],
+			"name": "Parent Left Note Mom"
+		},
+		{
+			"offsets": [
+				-477,
+				-311
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [],
+			"name": "Parent Down Note Dad"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sukia",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "sukiaaa",
+	"flip_x": false,
+	"healthbar_colors": [
+		195,
+		114,
+		0
+	],
+	"camera_position": [
+		410,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-196,
+				380
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Marisa Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-182,
+				341
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Marisa Note Right Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				334
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Marisa NOTE LEFT miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-179,
+				327
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Marisa Up note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				260
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Marisa Down Note0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-164,
+				367
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Marisa Up note miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				262
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Marisa Down Note MISS",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				318
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Marisa Note Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				343
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Marisa NOTE LEFT0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Marisa",
+	"position": [
+		-100,
+		300
+	],
+	"healthicon": "marisa",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		235,
+		105
+	],
+	"camera_position": [
+		400,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

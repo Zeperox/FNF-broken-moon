@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Witchcraft.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Pico Idle0000" x="0" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0001" x="0" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0002" x="203" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0003" x="203" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0004" x="406" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0005" x="406" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0006" x="609" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0007" x="609" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0008" x="812" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0009" x="812" y="0" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0010" x="0" y="215" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0011" x="0" y="215" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0012" x="203" y="215" width="203" height="215"/>
+	<SubTexture name="M Pico Idle0013" x="203" y="215" width="203" height="215"/>
+</TextureAtlas>

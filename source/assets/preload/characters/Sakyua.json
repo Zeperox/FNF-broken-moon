@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sakyua Idle"
+		},
+		{
+			"offsets": [
+				110,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sakyua Left Pose"
+		},
+		{
+			"offsets": [
+				-90,
+				-50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sakyua Pose Right"
+		},
+		{
+			"offsets": [
+				-60,
+				-160
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sakyua DOWN POSE"
+		},
+		{
+			"offsets": [
+				-26,
+				61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sakyua Up Pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sakyua",
+	"position": [
+		-40,
+		0
+	],
+	"healthicon": "sakyua",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		175,
+		175
+	],
+	"camera_position": [
+		80,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

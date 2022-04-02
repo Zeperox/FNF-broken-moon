@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mai&Satono.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MS Idle0000" x="0" y="0" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0001" x="0" y="0" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0002" x="0" y="651" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0003" x="0" y="651" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0004" x="0" y="1302" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0005" x="0" y="1302" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0006" x="0" y="1953" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0007" x="0" y="1953" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0008" x="0" y="2604" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0009" x="0" y="2604" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0010" x="0" y="3255" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0011" x="0" y="3255" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0012" x="839" y="0" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0013" x="839" y="651" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0014" x="839" y="651" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+	<SubTexture name="MS Idle0015" x="839" y="651" width="839" height="651" frameX="0" frameY="100" frameWidth="1500" frameHeight="1000"/>
+
+	<!--Mai Section-->
+	<SubTexture name="Mai Down0000" x="2515" y="1301" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0001" x="2515" y="1301" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0002" x="2515" y="1301" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0003" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0004" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0005" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0006" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0007" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0008" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0009" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0010" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0011" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0012" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0013" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Down0014" x="2515" y="1951" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	
+	<SubTexture name="Mai Left0000" x="839" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0001" x="839" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0002" x="839" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0003" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0004" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0005" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0006" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0007" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0008" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0009" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0010" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0011" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0012" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0013" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Left0014" x="1677" y="1302" width="838" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	
+	<SubTexture name="Mai Right0000" x="2509" y="2601" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0001" x="2509" y="2601" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0002" x="2509" y="2601" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0003" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0004" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0005" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0006" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0007" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0008" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0009" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0010" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0011" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0012" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0013" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Right0014" x="839" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	
+	<SubTexture name="Mai Up0000" x="839" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0001" x="839" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0002" x="839" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0003" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0004" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0005" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0006" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0007" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0008" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0009" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0010" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0011" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0012" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0013" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Mai Up0014" x="1674" y="3252" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	
+	<!--Satono Section-->
+	<SubTexture name="Satono Down0000" x="1678" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0001" x="1678" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0002" x="1678" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0003" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0004" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0005" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0006" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0007" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0008" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0009" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0010" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0011" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0012" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0013" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Down0014" x="2513" y="0" width="835" height="651" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	
+	<SubTexture name="Satono Left0000" x="839" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0001" x="839" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0002" x="839" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0003" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0004" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0005" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0006" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0007" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0008" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0009" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0010" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0011" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0012" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0013" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Left0014" x="1674" y="1952" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	
+	<SubTexture name="Satono Right0000" x="1674" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0001" x="1674" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0002" x="1674" y="2602" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0003" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0004" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0005" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0006" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0007" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0008" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0009" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0010" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0011" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0012" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0013" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Right0014" x="2509" y="3251" width="835" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	
+	<SubTexture name="Satono Up0000" x="1678" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0001" x="1678" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0002" x="1678" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0003" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0004" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0005" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0006" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0007" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0008" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0009" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0010" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0011" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0012" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0013" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+	<SubTexture name="Satono Up0014" x="2514" y="651" width="836" height="650" frameX="0" frameY="100" frameWidth="900" frameHeight="1500"/>
+</TextureAtlas>

@@ -1,0 +1,43 @@
+{
+	"storyName": "Doors and more Doors",
+	"hideFreeplay": false,
+	"weekBackground": "Door",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"door",
+		"bf",
+		"suika"
+	],
+	"songs": [
+		[
+			"backup-dancers",
+			"MS",
+			[
+				214,
+				51,
+				180
+			]
+		],
+		[
+			"locked",
+			"okina",
+			[
+				194,
+				151,
+				255
+			]
+		],
+		[
+			"secret-god-matara",
+			"okina",
+			[
+				194,
+				151,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Door"
+}

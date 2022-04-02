@@ -1,0 +1,48 @@
+{
+	"storyName": "A Candid KAPPAtition",
+	"hideFreeplay": false,
+	"weekBackground": "Nitori",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Nitori",
+		"bf",
+		"suika"
+	],
+	"songs": [
+		[
+			"candid-friend",
+			"nitori",
+			[
+				75,
+				193,
+				253
+			]
+		],
+		[
+			"maidens-short-life",
+			"nitori",
+			[
+				75,
+				193,
+				253
+			]
+		],
+		[
+			"mahorobagraphie",
+			"nitori",
+			[
+				75,
+				193,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Nitori"
+}

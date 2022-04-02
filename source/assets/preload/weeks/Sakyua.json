@@ -1,0 +1,48 @@
+{
+	"storyName": "A Trip Maid For Gensokyo",
+	"hideFreeplay": false,
+	"weekBackground": "Sakyua",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Sakyua",
+		"bf",
+		"suika"
+	],
+	"songs": [
+		[
+			"pocket-watch",
+			"sakyua",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"lunar-dial",
+			"sakyua",
+			[
+				195,
+				195,
+				195
+			]
+		],
+		[
+			"night-of-nights",
+			"sakyua",
+			[
+				195,
+				195,
+				195
+			]
+		]
+	],
+	"weekName": "Sakyua"
+}

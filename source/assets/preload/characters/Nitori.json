@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Nitori idle dance"
+		},
+		{
+			"offsets": [
+				-58,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Nitori Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				-70,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Nitori Sing Note UP"
+		},
+		{
+			"offsets": [
+				-50,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Nitori Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				-40,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Nitori Sing Note RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nitori",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "nitori",
+	"flip_x": false,
+	"healthbar_colors": [
+		160,
+		235,
+		255
+	],
+	"camera_position": [
+		30,
+		150
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

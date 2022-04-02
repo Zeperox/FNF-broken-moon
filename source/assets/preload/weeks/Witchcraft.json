@@ -1,0 +1,48 @@
+{
+	"storyName": "Witchcraft",
+	"hideFreeplay": false,
+	"weekBackground": "Witchcraft",
+	"weekBefore": "Nitori",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"Witchcraft",
+		"bf",
+		"suika"
+	],
+	"songs": [
+		[
+			"magus-night",
+			"marisa",
+			[
+				235,
+				215,
+				40
+			]
+		],
+		[
+			"doll-judgement",
+			"alice",
+			[
+				255,
+				235,
+				180
+			]
+		],
+		[
+			"master-spark",
+			"marisa",
+			[
+				235,
+				215,
+				40
+			]
+		]
+	],
+	"weekName": "Marisalice"
+}

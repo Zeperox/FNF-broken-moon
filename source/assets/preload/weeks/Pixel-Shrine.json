@@ -1,0 +1,48 @@
+{
+	"storyName": "Moriya Simulator",
+	"hideFreeplay": false,
+	"weekBackground": "Frogs and Stuff",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"Pixel-Shrine",
+		"bf",
+		"suika"
+	],
+	"songs": [
+		[
+			"transient",
+			"frog",
+			[
+				80,
+				255,
+				80
+			]
+		],
+		[
+			"native-faith",
+			"frog",
+			[
+				220,
+				215,
+				80
+			]
+		],
+		[
+			"ancient-battlefield",
+			"Kanako",
+			[
+				106,
+				0,
+				173
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Pixel-Shrine"
+}

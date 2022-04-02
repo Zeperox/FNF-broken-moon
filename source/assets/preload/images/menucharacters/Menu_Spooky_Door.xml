@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Spooky_Door.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="M Spooky Kids Idle0000" x="0" y="0" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0001" x="0" y="0" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0002" x="0" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0003" x="0" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0004" x="153" y="0" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0005" x="153" y="0" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0006" x="306" y="0" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0007" x="306" y="0" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0008" x="153" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0009" x="153" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0010" x="306" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0011" x="306" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0012" x="306" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0013" x="306" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0014" x="306" y="224" width="153" height="224"/>
+	<SubTexture name="M Spooky Kids Idle0015" x="306" y="224" width="153" height="224"/>
+</TextureAtlas>

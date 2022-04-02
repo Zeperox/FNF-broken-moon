@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Remilia.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Remilia Right note0000" x="0" y="0" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0001" x="0" y="0" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0002" x="0" y="550" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0003" x="0" y="1100" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0004" x="0" y="1100" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0005" x="0" y="1650" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0006" x="0" y="1650" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0007" x="0" y="1650" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0008" x="0" y="2200" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0009" x="0" y="2200" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0010" x="0" y="2200" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0011" x="0" y="2750" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0012" x="0" y="2750" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0013" x="0" y="2750" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0014" x="0" y="3300" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0015" x="0" y="3300" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0016" x="0" y="3300" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0017" x="0" y="3300" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0018" x="0" y="3300" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia Right note0019" x="0" y="3300" width="389" height="550" frameX="162" frameY="-118" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0000" x="980" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0001" x="980" y="1629" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0002" x="980" y="1629" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0003" x="980" y="2170" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0004" x="980" y="2170" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0005" x="980" y="2170" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0006" x="980" y="2711" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0007" x="980" y="2711" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0008" x="980" y="2711" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0009" x="1160" y="3252" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0010" x="1160" y="3252" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0011" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0012" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0013" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0014" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0015" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0016" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0017" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0018" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia down0019" x="1221" y="1088" width="241" height="541" frameX="60" frameY="-90" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0000" x="389" y="3396" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0001" x="389" y="3396" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0002" x="389" y="3396" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0003" x="646" y="3396" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0004" x="646" y="3396" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0005" x="646" y="3396" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0006" x="723" y="0" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0007" x="723" y="0" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0008" x="723" y="0" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0009" x="723" y="547" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0010" x="723" y="547" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia idle0011" x="723" y="547" width="257" height="547" frameX="15" frameY="-120" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0000" x="723" y="1094" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0001" x="723" y="1638" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0002" x="723" y="2182" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0003" x="723" y="2726" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0004" x="723" y="2726" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0005" x="903" y="3270" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0006" x="903" y="3270" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0007" x="903" y="3270" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0008" x="1160" y="0" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0009" x="1160" y="0" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0010" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0011" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0012" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0013" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0014" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0015" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0016" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0017" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0018" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia left note0019" x="980" y="544" width="257" height="544" frameX="33" frameY="-123" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0000" x="389" y="0" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0001" x="389" y="566" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0002" x="389" y="1132" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0003" x="389" y="1132" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0004" x="389" y="1698" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0005" x="389" y="1698" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0006" x="389" y="1698" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0007" x="389" y="2264" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0008" x="389" y="2264" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0009" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0010" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0011" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0012" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0013" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0014" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0015" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0016" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0017" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0018" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+	<SubTexture name="Remilia up note0019" x="389" y="2830" width="334" height="566" frameX="78" frameY="-159" frameWidth="0" frameHeight="750"/>
+</TextureAtlas>
